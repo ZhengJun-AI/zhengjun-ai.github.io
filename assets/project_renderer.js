@@ -108,7 +108,7 @@ function render_author(author_name, link = null, alias = null) {
             list[idx].innerHTML = context;
         }
 
-        if (author_name === 'Mengting Chen') {
+        if (author_name === 'Jun Zheng') {
             list[idx].setAttribute('class', 'me');
         }
     }
@@ -153,23 +153,19 @@ render_project(
 // Projects.
 
 render_project(
-    project_name = 'Tunnel Try-on',
-    figure_path = './assets/projects/tunnel-try-on.png',
-    title_name = 'Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos',
+    project_name = 'VITON-DiT',
+    figure_path = './assets/projects/viton-dit.gif',
+    title_name = 'VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers',
     author_list = [
-        'Zhengze Xu',
-        'Mengting Chen',
-        'Zhao Wang',
-        'Linyu Xing',
-        'Zhonghua Zhai',
-        'Nong Sang',
-        'Jinsong Lan',
-        'Shuai Xiao',
-        'Changxin Gao',
+        'Jun Zheng',
+        'Fuwei Zhao',
+        'Youjiang Xu',
+        'Xin Dong',
+        'Xiaodan Liang'
     ],
     material_list = [
-        ['arXiv', 'https://arxiv.org/pdf/2404.17571'],
-        ['Project', 'https://mengtingchen.github.io/tunnel-try-on-page/'],
+        ['arXiv', ''],
+        ['Project', 'https://zhengjun-ai.github.io/viton-dit-page/'],
     ],
     award_name = null,
 );
@@ -279,37 +275,9 @@ render_project(
 
 
 // Authors.
-render_author('Haozhe Cheng');
-render_author('Haicheng Wang', 'https://scholar.google.com/citations?user=x0Uk7S8AAAAJ&hl=zh-CN');
-render_author('Jinxiang Liu', 'https://scholar.google.com/citations?user=wSRKaWIAAAAJ&hl=en');
-render_author('Qiang Hu');
-render_author('Xiaoyun Zhang', 'https://scholar.google.com.hk/citations?user=0m0aIqsAAAAJ&hl=zh-CN');
-render_author('Yanfeng Wang', 'https://scholar.google.com/citations?user=x_sgJskAAAAJ&hl=zh-CN');
-
-render_author('Bin Feng', 'https://scholar.google.com.hk/citations?user=nRc8u6gAAAAJ&hl=zh-CN');
-render_author('Bo Wang', 'https://scholar.google.com/citations?user=37FDILIAAAAJ&hl=en');
-render_author('Changxin Gao', 'https://scholar.google.com/citations?user=4tku-lwAAAAJ&hl=en');
-render_author('Chen Ju', 'https://voide1220.github.io/');
-render_author('Chang Huang', 'https://scholar.google.com/citations?user=IyyEKyIAAAAJ&hl=en');
-render_author('Hengshuang Zhao', 'https://hszhao.github.io/');
-render_author('Heng Luo', 'https://scholar.google.fr/citations?user=0xIrC1cAAAAJ&hl=en');
-render_author('Jinsong Lan');
-render_author('Linyu Xing', 'https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=y19jyMwAAAAJ');
-render_author('Mengting Chen', 'https://scholar.google.com.hk/citations?user=LcoK9ZEAAAAJ&hl=zh-CN');
-render_author('Nong Sang', 'https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=zh-CN');
-render_author('Shuai Xiao', 'https://sites.google.com/view/xiao-shuai/home');
-render_author('Wenyu Liu', 'https://scholar.google.com/citations?user=D7jDk7gAAAAJ&hl=zh-CN');
-render_author('Xi Chen', 'https://xavierchen34.github.io/');
-render_author('Xinggang Wang', 'https://scholar.google.com/citations?user=qNCTLV0AAAAJ&hl=en');
-render_author('Xuewen Hong');
-render_author('Xinyu Zhang', 'https://scholar.google.co.in/citations?user=M7hnG9oAAAAJ&hl=en');
-render_author('Yifeng Geng',);
-render_author('Yuxin Fang', 'https://scholar.google.com/citations?user=_Lk0-fQAAAAJ&hl=en');
-render_author('Yu Liu', 'https://scholar.google.com/citations?user=8zksQb4AAAAJ');
-render_author('Yujun Shen', 'https://shenyujun.github.io/');
-render_author('Yutong Feng', 'https://scholar.google.com/citations?user=mZwJLeUAAAAJ');
-render_author('Zhao Wang');
-render_author('Zhengze Xu', 'https://scholar.google.co.uk/citations?user=ItKODP4AAAAJ&hl=en');
-render_author('Zhiheng Liu', 'https://johanan528.github.io/');
-render_author('Zhonghua Zhai', 'https://scholar.google.com.hk/citations?hl=zh-CN&user=o4SDCAYAAAAJ');
+render_author('Xiaodan Liang', 'https://scholar.google.com/citations?user=voxznZAAAAAJ');
+render_author('Xin Dong');
+render_author('Youjiang Xu');
+render_author('Jun Zheng', 'https://zhengjun-ai.github.io/');
+render_author('Fuwei Zhao', 'https://scholar.google.com/citations?user=XSf0hP4AAAAJ');
 render_author('');
