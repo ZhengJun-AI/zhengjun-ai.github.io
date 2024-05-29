@@ -164,7 +164,7 @@ render_project(
         'Xiaodan Liang'
     ],
     material_list = [
-        ['arXiv', ''],
+        ['arXiv', 'https://arxiv.org/abs/2405.18326'],
         ['Project', 'https://zhengjun-ai.github.io/viton-dit-page/'],
     ],
     award_name = null,
