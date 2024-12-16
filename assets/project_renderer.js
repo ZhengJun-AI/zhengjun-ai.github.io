@@ -171,107 +171,22 @@ render_project(
 );
 
 render_project(
-    project_name = 'Wear-Any-Way',
-    figure_path = './assets/projects/wear-any-way.png',
-    title_name = 'Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment',
+    project_name = 'Dynamic Try-On',
+    figure_path = './assets/projects/dynamic-tryon.gif',
+    title_name = 'Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism',
     author_list = [
-        'Mengting Chen',
-        'Xi Chen',
-        'Zhonghua Zhai',
-        'Chen Ju',
-        'Xuewen Hong',
-        'Jinsong Lan',
-        'Shuai Xiao',
+        'Jun Zheng',
+        'Jing Wang',
+        'Fuwei Zhao',
+        'Xujie Zhang',
+        'Xiaodan Liang'
     ],
     material_list = [
-        ['arXiv', 'https://arxiv.org/pdf/2403.12965'],
-        ['Project', 'https://mengtingchen.github.io/wear-any-way-page/'],
-        ['Media', 'https://mp.weixin.qq.com/s/MWFfUrj_-bitHxgeOtDIKQ'],
+        ['arXiv', 'https://arxiv.org/abs/2412.09822'],
+        ['Project', 'https://zhengjun-ai.github.io/dynamic-tryon-page/'],
     ],
     award_name = null,
 );
-
-render_project(
-    project_name = 'LivePhoto',
-    figure_path = './assets/projects/livephoto.gif',
-    title_name = 'LivePhoto: Real Image Animation with Text-guided Motion Control',
-    author_list = [
-        'Xi Chen',
-        'Zhiheng Liu',
-        'Mengting Chen',
-        'Yutong Feng',
-        'Yu Liu',
-        'Yujun Shen',
-        'Hengshuang Zhao',
-    ],
-    material_list = [
-        ['arXiv', 'https://arxiv.org/pdf/2312.02928.pdf'],
-        ['Project', 'https://xavierchen34.github.io/LivePhoto-Page/'],
-        ['Code', 'https://github.com/XavierCHEN34/LivePhoto'],
-        ['Demo', 'https://www.youtube.com/watch?v=M2vzrTYAsQI'],
-    ],
-    award_name = null,
-);
-
-
-render_project(
-    project_name = 'DTN',
-    figure_path = './assets/projects/DTN.jpg',
-    title_name = 'Diversity transfer network for few-shot learning',
-    author_list = [
-        'Mengting Chen',
-        'Yuxin Fang',
-        'Xinggang Wang',
-        'Heng Luo',
-        'Yifeng Geng',
-        'Xinyu Zhang',
-        'Chang Huang',
-        'Wenyu Liu',
-        'Bo Wang',
-    ],
-    material_list = [
-        ['AAAI 2020 (Oral)', 'https://ojs.aaai.org/index.php/AAAI/article/view/6628'],
-        ['Code', 'https://github.com/Yuxin-CV/DTN'],
-    ],
-    award_name = null,
-);
-
-render_project(
-    project_name = 'SRF',
-    figure_path = './assets/projects/SRF.jpg',
-    title_name = 'Structured random forest for label distribution learning',
-    author_list = [
-        'Mengting Chen',
-        'Xinggang Wang',
-        'Bin Feng',
-        'Wenyu Liu',
-    ],
-    material_list = [
-        ['Neurocomputing 2018', 'https://www.sciencedirect.com/science/article/abs/pii/S0925231218310622'],
-    ],
-    award_name = null,
-);
-
-render_project(
-    project_name = 'DENOISER',
-    figure_path = './assets/projects/DENOISER.jpg',
-    title_name = 'DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition',
-    author_list = [
-        'Haozhe Cheng',
-        'Chen Ju',
-        'Haicheng Wang',
-        'Jinxiang Liu',
-        'Mengting Chen',
-        'Qiang Hu',
-        'Xiaoyun Zhang',
-        'Yanfeng Wang',
-    ],
-    material_list = [
-        ['arXiv', 'https://arxiv.org/pdf/2404.14890'],
-    ],
-    award_name = null,
-);
-
 
 
 // Authors.
@@ -280,4 +195,5 @@ render_author('Xin Dong');
 render_author('Youjiang Xu');
 render_author('Jun Zheng', 'https://zhengjun-ai.github.io/');
 render_author('Fuwei Zhao', 'https://scholar.google.com/citations?user=XSf0hP4AAAAJ');
-render_author('');
+render_author('Jing Wang');
+render_author('Xujie Zhang', 'https://scholar.google.com/citations?user=G58T4dMAAAAJ');
