@@ -182,8 +182,36 @@ render_project(
         'Xiaodan Liang'
     ],
     material_list = [
-        ['arXiv', 'https://arxiv.org/abs/2412.09822'],
+        ['BMVC 2025', 'https://arxiv.org/abs/2412.09822'],
         ['Project', 'https://zhengjun-ai.github.io/dynamic-tryon-page/'],
+    ],
+    award_name = null,
+);
+
+render_project(
+    project_name = 'WISA',
+    figure_path = './assets/projects/wisa.gif',
+    title_name = 'WISA: World simulator assistant for physics-aware text-to-video generation',
+    author_list = [
+        'Jing Wang',
+        'equal',
+        'Ao Ma',
+        'equal',
+        'Ke Cao', 
+        'equal',
+        'Jun Zheng',
+        'Zhanjie Zhang',
+        'Jiasong Feng',
+        'Shanyuan Liu',
+        'Yuhang Ma',
+        'Bo Cheng',
+        'Daiwei Leng',
+        'Yuhui Yin',
+        'Xiaodan Liang'
+    ],
+    material_list = [
+        ['NeurIPS 2025 (Spotlight)', 'https://arxiv.org/abs/2503.08153'],
+        ['Project', 'https://360cvgroup.github.io/WISA/'],
     ],
     award_name = null,
 );
@@ -195,5 +223,14 @@ render_author('Xin Dong');
 render_author('Youjiang Xu');
 render_author('Jun Zheng', 'https://zhengjun-ai.github.io/');
 render_author('Fuwei Zhao', 'https://scholar.google.com/citations?user=XSf0hP4AAAAJ');
-render_author('Jing Wang');
+render_author('Jing Wang', 'https://scholar.google.com/citations?user=Q9Np_KQAAAAJ&hl=en&oi=sra');
 render_author('Xujie Zhang', 'https://scholar.google.com/citations?user=G58T4dMAAAAJ');
+render_author('Ke Cao');
+render_author('Ao Ma');
+render_author('Zhanjie Zhang');
+render_author('Jiasong Feng');
+render_author('Shanyuan Liu');
+render_author('Yuhang Ma');
+render_author('Bo Cheng');
+render_author('Daiwei Leng');
+render_author('Yuhui Yin');
