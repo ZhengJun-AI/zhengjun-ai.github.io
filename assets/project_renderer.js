@@ -213,6 +213,24 @@ render_project(
     award_name = null,
 );
 
+render_project(
+    project_name = 'M3D-VTON',
+    figure_path = './assets/projects/m3d.gif',
+    title_name = 'Monocular-to-3D Virtual Try-On with Generative Semantic Articulated Fields',
+    author_list = [
+        'Zhenyu Xie',
+        'Fuwei Zhao',
+        'Jun Zheng',
+        'Xin Dong',
+        'Feida Zhu',
+        'Xiaodan Liang'
+    ],
+    material_list = [
+        ['IEEE TPAMI', 'https://ieeexplore.ieee.org/document/11086495'],
+    ],
+    award_name = null,
+);
+
 
 // Authors.
 render_author('Xiaodan Liang', 'https://scholar.google.com/citations?user=voxznZAAAAAJ');
@@ -231,3 +249,5 @@ render_author('Yuhang Ma');
 render_author('Bo Cheng');
 render_author('Daiwei Leng');
 render_author('Yuhui Yin');
+render_author('Zhenyu Xie');
+render_author('Feida Zhu');
