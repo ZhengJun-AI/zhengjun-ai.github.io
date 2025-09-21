@@ -218,8 +218,8 @@ render_project(
     figure_path = './assets/projects/m3d.gif',
     title_name = 'Monocular-to-3D Virtual Try-On with Generative Semantic Articulated Fields',
     author_list = [
-        'Zhenyu Xie',
-        'Fuwei Zhao',
+        'Zhenyu Xie', 'equal',
+        'Fuwei Zhao', 'equal',
         'Jun Zheng',
         'Xin Dong',
         'Feida Zhu',
