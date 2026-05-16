@@ -171,6 +171,61 @@ render_project(
 );
 
 render_project(
+    project_name = 'Tstars-Tryon',
+    figure_path = './assets/projects/Tstars-Tryon.png',
+    title_name = 'Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items',
+    author_list = [
+        'Mengting Chen',
+        'Zhengrui Chen',
+        'Yongchao Du',
+        'Zuan Gao',
+        'Taihang Hu',
+        'Jinsong Lan',
+        'Chao Lin',
+        'Yefeng Shen',
+        'Xingjian Wang',
+        'Zhao Wang',
+        'Zhengtao Wu',
+        'Xiaoli Xu',
+        'Zhengze Xu',
+        'Hao Yan',
+        'Mingzhou Zhang',
+        'Jun Zheng',
+        'Qinye Zhou',
+        'Xiaoyong Zhu',
+        'Bo Zheng',
+    ],
+    material_list = [
+        ['Report', 'https://arxiv.org/abs/2604.19748'],
+        ['Benchmark', 'https://huggingface.co/datasets/TaobaoTmall-AlgorithmProducts/Tstars-VTON'],
+        ['Media', 'https://mp.weixin.qq.com/s/9xsNpPF5bKI3L5V1cRvB_w'],
+    ],
+    award_name = null,
+);
+
+render_project(
+    project_name = 'iTryOn',
+    figure_path = './assets/projects/itryon.gif',
+    title_name = 'iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance',
+    author_list = [
+        'Jun Zheng',
+        'Zhengze Xu',
+        'Mengting Chen',
+        'Jing Wang',
+        'Jinsong Lan',
+        'Xiaoyong Zhu',
+        'Kaifu Zhang',
+        'Bo Zheng',
+        'Xiaodan Liang'
+    ],
+    material_list = [
+        ['ICML 2026', 'https://icml.cc/virtual/2026/poster/65275'],
+        ['Project', 'https://zhengjun-ai.github.io/itryon-page/'],
+    ],
+    award_name = null,
+);
+
+render_project(
     project_name = 'Dynamic Try-On',
     figure_path = './assets/projects/dynamic-tryon.gif',
     title_name = 'Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism',
@@ -182,7 +237,7 @@ render_project(
         'Xiaodan Liang'
     ],
     material_list = [
-        ['BMVC 2025', 'https://arxiv.org/abs/2412.09822'],
+        ['BMVC 2025', 'https://bmvc2025.bmva.org/proceedings/602/'],
         ['Project', 'https://zhengjun-ai.github.io/dynamic-tryon-page/'],
     ],
     award_name = null,
@@ -251,3 +306,65 @@ render_author('Daiwei Leng');
 render_author('Yuhui Yin');
 render_author('Zhenyu Xie');
 render_author('Feida Zhu');
+
+render_author('Jing Wang');
+render_author('Zhengrui Chen');
+render_author('Yongchao Du');
+render_author('Zuan Gao');
+render_author('Chao Lin');
+render_author('Yefeng Shen');
+
+render_author('Xingjian Wang');
+render_author('Xiaoli Xu');
+render_author('Zhengtao Wu');
+render_author('Hao Yan');
+render_author('Mingzhou Zhang');
+render_author('Qinye Zhou');
+
+render_author('Xiaoyong Zhu');
+render_author('Kaifu Zhang');
+render_author('Ming-Ming Cheng');
+render_author('Bo Zheng');
+render_author('Yaxing Wang');
+render_author('Taihang Hu');
+render_author('Yixuan Huang');
+render_author('Chang Liu');
+render_author('Mingshuai Yao');
+render_author('Ying Chen');
+render_author('Qingwen Liu');
+render_author('Haozhe Cheng');
+render_author('Weixiong Lin', 'https://scholar.google.com.hk/citations?user=Ka57qcUAAAAJ&hl=nl');
+render_author('Haicheng Wang', 'https://scholar.google.com/citations?user=x0Uk7S8AAAAJ&hl=zh-CN');
+render_author('Jinxiang Liu', 'https://scholar.google.com/citations?user=wSRKaWIAAAAJ&hl=en');
+render_author('Qiang Hu');
+render_author('Xiaoyun Zhang', 'https://scholar.google.com.hk/citations?user=0m0aIqsAAAAJ&hl=zh-CN');
+render_author('Yanfeng Wang', 'https://scholar.google.com/citations?user=x_sgJskAAAAJ&hl=zh-CN');
+render_author('Bin Feng', 'https://scholar.google.com.hk/citations?user=nRc8u6gAAAAJ&hl=zh-CN');
+render_author('Bo Wang', 'https://scholar.google.com/citations?user=37FDILIAAAAJ&hl=en');
+render_author('Changxin Gao', 'https://scholar.google.com/citations?user=4tku-lwAAAAJ&hl=en');
+render_author('Chen Ju', 'https://voide1220.github.io/');
+render_author('Chang Huang', 'https://scholar.google.com/citations?user=IyyEKyIAAAAJ&hl=en');
+render_author('Hengshuang Zhao', 'https://hszhao.github.io/');
+render_author('Heng Luo', 'https://scholar.google.fr/citations?user=0xIrC1cAAAAJ&hl=en');
+render_author('Jinsong Lan');
+render_author('Linyu Xing', 'https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=y19jyMwAAAAJ');
+render_author('Mengting Chen', 'https://scholar.google.com.hk/citations?user=LcoK9ZEAAAAJ&hl=zh-CN');
+render_author('Nong Sang', 'https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=zh-CN');
+render_author('Shilong Zhang', 'https://jshilong.github.io/');
+render_author('Shuai Xiao');
+render_author('Wenyu Liu', 'https://scholar.google.com/citations?user=D7jDk7gAAAAJ&hl=zh-CN');
+render_author('Xi Chen', 'https://xavierchen34.github.io/');
+render_author('Xinggang Wang', 'https://scholar.google.com/citations?user=qNCTLV0AAAAJ&hl=en');
+render_author('Xuewen Hong');
+render_author('Xinyu Zhang', 'https://scholar.google.co.in/citations?user=M7hnG9oAAAAJ&hl=en');
+render_author('Yifeng Geng',);
+render_author('Yiyang Wang',);
+render_author('Yuxin Fang', 'https://scholar.google.com/citations?user=_Lk0-fQAAAAJ&hl=en');
+render_author('Yu Liu', 'https://scholar.google.com/citations?user=8zksQb4AAAAJ');
+render_author('Yujun Shen', 'https://shenyujun.github.io/');
+render_author('Yutong Feng', 'https://scholar.google.com/citations?user=mZwJLeUAAAAJ');
+render_author('Zhao Wang');
+render_author('Zhengze Xu', 'https://scholar.google.co.uk/citations?user=ItKODP4AAAAJ&hl=en');
+render_author('Zhiheng Liu', 'https://johanan528.github.io/');
+render_author('Zhonghua Zhai', 'https://scholar.google.com.hk/citations?hl=zh-CN&user=o4SDCAYAAAAJ');
+render_author('');
