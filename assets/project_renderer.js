@@ -307,7 +307,6 @@ render_author('Yuhui Yin');
 render_author('Zhenyu Xie');
 render_author('Feida Zhu');
 
-render_author('Jing Wang');
 render_author('Zhengrui Chen');
 render_author('Yongchao Du');
 render_author('Zuan Gao');
