@@ -1,0 +1,756 @@
+[
+  {
+    "id": "viton-dit",
+    "title": "VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers",
+    "authors": [
+      {
+        "name": "Jun Zheng"
+      },
+      {
+        "name": "Fuwei Zhao"
+      },
+      {
+        "name": "Youjiang Xu"
+      },
+      {
+        "name": "Xin Dong"
+      },
+      {
+        "name": "Xiaodan Liang"
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2405.18326"
+      ],
+      [
+        "Project",
+        "https://zhengjun-ai.github.io/viton-dit-page/"
+      ]
+    ],
+    "year": 2024,
+    "venue": "Preprint · 2024",
+    "description": "Learning in-the-wild video try-on from human dance videos.",
+    "media": "viton-dit",
+    "order": 3,
+    "selected": true,
+    "role": "First author"
+  },
+  {
+    "id": "tstars-tryon",
+    "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+    "authors": [
+      {
+        "name": "Mengting Chen"
+      },
+      {
+        "name": "Zhengrui Chen"
+      },
+      {
+        "name": "Yongchao Du"
+      },
+      {
+        "name": "Zuan Gao"
+      },
+      {
+        "name": "Taihang Hu"
+      },
+      {
+        "name": "Jinsong Lan"
+      },
+      {
+        "name": "Chao Lin"
+      },
+      {
+        "name": "Yefeng Shen"
+      },
+      {
+        "name": "Xingjian Wang"
+      },
+      {
+        "name": "Zhao Wang"
+      },
+      {
+        "name": "Zhengtao Wu"
+      },
+      {
+        "name": "Xiaoli Xu"
+      },
+      {
+        "name": "Zhengze Xu"
+      },
+      {
+        "name": "Hao Yan"
+      },
+      {
+        "name": "Mingzhou Zhang"
+      },
+      {
+        "name": "Jun Zheng"
+      },
+      {
+        "name": "Qinye Zhou"
+      },
+      {
+        "name": "Xiaoyong Zhu"
+      },
+      {
+        "name": "Bo Zheng"
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2604.19748"
+      ],
+      [
+        "Benchmark",
+        "https://huggingface.co/datasets/TaobaoTmall-AlgorithmProducts/Tstars-VTON"
+      ],
+      [
+        "Media",
+        "https://mp.weixin.qq.com/s/9xsNpPF5bKI3L5V1cRvB_w"
+      ]
+    ],
+    "year": 2026,
+    "venue": "Technical report · 2026",
+    "description": "Robust virtual try-on across diverse fashion items and real-world conditions.",
+    "media": "Tstars-Tryon",
+    "order": 4,
+    "selected": true,
+    "note": "Authors listed alphabetically in the report."
+  },
+  {
+    "id": "itryon",
+    "title": "iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance",
+    "authors": [
+      {
+        "name": "Jun Zheng"
+      },
+      {
+        "name": "Zhengze Xu"
+      },
+      {
+        "name": "Mengting Chen"
+      },
+      {
+        "name": "Jing Wang"
+      },
+      {
+        "name": "Jinsong Lan"
+      },
+      {
+        "name": "Xiaoyong Zhu"
+      },
+      {
+        "name": "Kaifu Zhang"
+      },
+      {
+        "name": "Bo Zheng"
+      },
+      {
+        "name": "Xiaodan Liang"
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2605.21431"
+      ],
+      [
+        "Conference",
+        "https://icml.cc/virtual/2026/poster/65275"
+      ],
+      [
+        "Project",
+        "https://zhengjun-ai.github.io/itryon-page/"
+      ]
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "description": "Interactive video virtual try-on with spatial and semantic control.",
+    "media": "itryon",
+    "order": 1,
+    "selected": true,
+    "role": "First author"
+  },
+  {
+    "id": "dynamic-try-on",
+    "title": "Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism",
+    "authors": [
+      {
+        "name": "Jun Zheng"
+      },
+      {
+        "name": "Jing Wang"
+      },
+      {
+        "name": "Fuwei Zhao"
+      },
+      {
+        "name": "Xujie Zhang"
+      },
+      {
+        "name": "Xiaodan Liang"
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://bmvc2025.bmva.org/proceedings/602/"
+      ],
+      [
+        "Project",
+        "https://zhengjun-ai.github.io/dynamic-tryon-page/"
+      ]
+    ],
+    "year": 2025,
+    "venue": "BMVC 2025",
+    "description": "Dynamic attention for temporally consistent video virtual try-on.",
+    "media": "dynamic-tryon",
+    "order": 2,
+    "selected": true,
+    "role": "First author"
+  },
+  {
+    "id": "wisa",
+    "title": "WISA: World simulator assistant for physics-aware text-to-video generation",
+    "authors": [
+      {
+        "name": "Jing Wang",
+        "equal": true
+      },
+      {
+        "name": "Ao Ma",
+        "equal": true
+      },
+      {
+        "name": "Ke Cao",
+        "equal": true
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": false
+      },
+      {
+        "name": "Jiasong Feng",
+        "equal": false
+      },
+      {
+        "name": "Zhanjie Zhang",
+        "equal": false
+      },
+      {
+        "name": "Wanyuan Pang",
+        "equal": false
+      },
+      {
+        "name": "Xiaodan Liang",
+        "equal": false
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0856bc553d3e3b9827e5140d0ad3bf8d-Abstract-Conference.html"
+      ],
+      [
+        "Project",
+        "https://360cvgroup.github.io/WISA/"
+      ],
+      [
+        "Code",
+        "https://github.com/360CVGroup/WISA"
+      ]
+    ],
+    "year": 2025,
+    "venue": "NeurIPS 2025 · Spotlight",
+    "description": "",
+    "media": null,
+    "order": 0,
+    "selected": false
+  },
+  {
+    "id": "m3d-vton",
+    "title": "Monocular-to-3D Virtual Try-On with Generative Semantic Articulated Fields",
+    "authors": [
+      {
+        "name": "Zhenyu Xie",
+        "equal": true
+      },
+      {
+        "name": "Fuwei Zhao",
+        "equal": true
+      },
+      {
+        "name": "Jun Zheng"
+      },
+      {
+        "name": "Xin Dong"
+      },
+      {
+        "name": "Feida Zhu"
+      },
+      {
+        "name": "Xiaodan Liang"
+      }
+    ],
+    "links": [
+      [
+        "Paper",
+        "https://ieeexplore.ieee.org/document/11086495"
+      ]
+    ],
+    "year": 2025,
+    "venue": "IEEE TPAMI · 2025",
+    "description": "",
+    "media": null,
+    "order": 0,
+    "selected": false
+  },
+  {
+    "id": "swift-image",
+    "title": "Exploring the Performance Frontier of Compact Unified Image Generation Models",
+    "authors": [
+      {
+        "name": "Taihang Hu",
+        "equal": true
+      },
+      {
+        "name": "Zhao Wang",
+        "equal": true
+      },
+      {
+        "name": "Zuan Gao",
+        "equal": true
+      },
+      {
+        "name": "Tao Liu",
+        "equal": true
+      },
+      {
+        "name": "Hao Yan",
+        "equal": true
+      },
+      {
+        "name": "Zhengze Xu",
+        "equal": true
+      },
+      {
+        "name": "Yuhang Yu",
+        "equal": true
+      },
+      {
+        "name": "Yongchao Du",
+        "equal": true
+      },
+      {
+        "name": "Xingjian Wang",
+        "equal": true
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": true
+      },
+      {
+        "name": "Qinye Zhou",
+        "equal": true
+      },
+      {
+        "name": "Yaqi Cai",
+        "equal": false
+      },
+      {
+        "name": "Zhengrui Chen",
+        "equal": false
+      },
+      {
+        "name": "Chao Lin",
+        "equal": false
+      },
+      {
+        "name": "Yefeng Shen",
+        "equal": false
+      },
+      {
+        "name": "Yuan Wang",
+        "equal": false
+      },
+      {
+        "name": "Zhengtao Wu",
+        "equal": false
+      },
+      {
+        "name": "Ge Wu",
+        "equal": false
+      },
+      {
+        "name": "Xiaoli Xu",
+        "equal": false
+      },
+      {
+        "name": "Denghui Yang",
+        "equal": false
+      },
+      {
+        "name": "Huayu Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mingzhou Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mengting Chen",
+        "equal": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Technical report · 2026",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2608.20334"
+      ]
+    ],
+    "selected": true,
+    "order": 5,
+    "description": "Swift-Image: compact models for unified image generation and editing.",
+    "media": null,
+    "role": "Equal contribution"
+  },
+  {
+    "id": "capability-centric-data",
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "authors": [
+      {
+        "name": "Xingjian Wang",
+        "equal": true
+      },
+      {
+        "name": "Zhao Wang",
+        "equal": true
+      },
+      {
+        "name": "Taihang Hu",
+        "equal": true
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": true
+      },
+      {
+        "name": "Zhengrui Chen",
+        "equal": true
+      },
+      {
+        "name": "Qinye Zhou",
+        "equal": true
+      },
+      {
+        "name": "Zhengtao Wu",
+        "equal": true
+      },
+      {
+        "name": "Yongchao Du",
+        "equal": false
+      },
+      {
+        "name": "Zuan Gao",
+        "equal": false
+      },
+      {
+        "name": "Chao Lin",
+        "equal": false
+      },
+      {
+        "name": "Yefeng Shen",
+        "equal": false
+      },
+      {
+        "name": "Yuan Wang",
+        "equal": false
+      },
+      {
+        "name": "Xiaoli Xu",
+        "equal": false
+      },
+      {
+        "name": "Zhengze Xu",
+        "equal": false
+      },
+      {
+        "name": "Hao Yan",
+        "equal": false
+      },
+      {
+        "name": "Denghui Yang",
+        "equal": false
+      },
+      {
+        "name": "Yuhang Yu",
+        "equal": false
+      },
+      {
+        "name": "Huayu Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mingzhou Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mengting Chen",
+        "equal": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Technical report · 2026",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2608.18076"
+      ]
+    ],
+    "selected": true,
+    "order": 6,
+    "description": "Capability-aligned data construction and training curricula for image generation.",
+    "media": null,
+    "role": "Equal contribution"
+  },
+  {
+    "id": "cpi-bench",
+    "title": "CPI-Bench: A Comprehensive, Practical and Intelligent Benchmark for Real-World Image Editing",
+    "authors": [
+      {
+        "name": "Qinye Zhou",
+        "equal": false
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": false
+      },
+      {
+        "name": "Yongchao Du",
+        "equal": false
+      },
+      {
+        "name": "Yuan Wang",
+        "equal": false
+      },
+      {
+        "name": "Zhengrui Chen",
+        "equal": false
+      },
+      {
+        "name": "Zuan Gao",
+        "equal": false
+      },
+      {
+        "name": "Taihang Hu",
+        "equal": false
+      },
+      {
+        "name": "Chao Lin",
+        "equal": false
+      },
+      {
+        "name": "Yefeng Shen",
+        "equal": false
+      },
+      {
+        "name": "Xingjian Wang",
+        "equal": false
+      },
+      {
+        "name": "Zhao Wang",
+        "equal": false
+      },
+      {
+        "name": "Zhengtao Wu",
+        "equal": false
+      },
+      {
+        "name": "Xiaoli Xu",
+        "equal": false
+      },
+      {
+        "name": "Zhengze Xu",
+        "equal": false
+      },
+      {
+        "name": "Hao Yan",
+        "equal": false
+      },
+      {
+        "name": "Denghui Yang",
+        "equal": false
+      },
+      {
+        "name": "Yuhang Yu",
+        "equal": false
+      },
+      {
+        "name": "Huayu Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mingzhou Zhang",
+        "equal": false
+      },
+      {
+        "name": "Mengting Chen",
+        "equal": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Technical report · 2026",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2608.14546"
+      ],
+      [
+        "Code",
+        "https://github.com/zqyzzz/CPI-benchmark"
+      ],
+      [
+        "Dataset",
+        "https://huggingface.co/datasets/TaobaoTmall-AlgorithmProducts/CPI-benchmark"
+      ]
+    ],
+    "selected": false,
+    "order": 0,
+    "description": "",
+    "media": null
+  },
+  {
+    "id": "grpo-guard",
+    "title": "GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping",
+    "authors": [
+      {
+        "name": "Jing Wang",
+        "equal": false
+      },
+      {
+        "name": "Jiajun Liang",
+        "equal": false
+      },
+      {
+        "name": "Jie Liu",
+        "equal": false
+      },
+      {
+        "name": "Henglin Liu",
+        "equal": false
+      },
+      {
+        "name": "Gongye Liu",
+        "equal": false
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": false
+      },
+      {
+        "name": "Wanyuan Pang",
+        "equal": false
+      },
+      {
+        "name": "Ao Ma",
+        "equal": false
+      },
+      {
+        "name": "Zhenyu Xie",
+        "equal": false
+      },
+      {
+        "name": "Xintao Wang",
+        "equal": false
+      },
+      {
+        "name": "Meng Wang",
+        "equal": false
+      },
+      {
+        "name": "Pengfei Wan",
+        "equal": false
+      },
+      {
+        "name": "Xiaodan Liang",
+        "equal": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Preprint · 2025",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2510.22319"
+      ]
+    ],
+    "selected": false,
+    "order": 0,
+    "description": "",
+    "media": null
+  },
+  {
+    "id": "catv2ton",
+    "title": "CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation",
+    "authors": [
+      {
+        "name": "Zheng Chong",
+        "equal": false
+      },
+      {
+        "name": "Wenqing Zhang",
+        "equal": false
+      },
+      {
+        "name": "Shiyue Zhang",
+        "equal": false
+      },
+      {
+        "name": "Jun Zheng",
+        "equal": false
+      },
+      {
+        "name": "Xiao Dong",
+        "equal": false
+      },
+      {
+        "name": "Haoxiang Li",
+        "equal": false
+      },
+      {
+        "name": "Yiling Wu",
+        "equal": false
+      },
+      {
+        "name": "Dongmei Jiang",
+        "equal": false
+      },
+      {
+        "name": "Xiaodan Liang",
+        "equal": false
+      }
+    ],
+    "year": 2025,
+    "venue": "CVPR 2025 Workshop",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2501.11325"
+      ],
+      [
+        "Code",
+        "https://github.com/Zheng-Chong/CatV2TON"
+      ]
+    ],
+    "selected": false,
+    "order": 0,
+    "description": "",
+    "media": null
+  }
+]

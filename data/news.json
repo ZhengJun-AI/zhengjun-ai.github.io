@@ -1,0 +1,12 @@
+[
+  {"date": "2026-08", "text": "New work on compact image generation models, capability-centric data design, and real-world image editing evaluation.", "links": [["Swift-Image", "#swift-image"], ["Data design", "#capability-centric-data"], ["CPI-Bench", "#cpi-bench"]]},
+  {"date": "2026-07", "text": "I joined Alibaba’s AI Native Applications department as an Algorithm Engineer, working on virtual try-on.", "links": []},
+  {"date": "2026-06", "text": "I graduated from Sun Yat-sen University with a master’s degree in Control Science and Engineering.", "links": []},
+  {"date": "2026-05", "text": "iTryOn was accepted to ICML 2026.", "links": [["Paper & project", "#itryon"]]},
+  {"date": "2026-04", "text": "We released Tstars-Tryon 1.0 and the Tstars-VTON benchmark.", "links": [["Report & benchmark", "#tstars-tryon"]]},
+  {"date": "2025-09", "text": "WISA was accepted to NeurIPS 2025 as a Spotlight.", "links": [["Paper & project", "#wisa"]]},
+  {"date": "2025-07", "text": "Dynamic Try-On was accepted to BMVC 2025; our monocular-to-3D virtual try-on work was accepted to IEEE TPAMI.", "links": [["Dynamic Try-On", "#dynamic-try-on"], ["3D try-on", "#m3d-vton"]]},
+  {"date": "2025-05", "text": "We released WISA for physics-aware text-to-video generation.", "links": [["Project", "https://360cvgroup.github.io/WISA/"]]},
+  {"date": "2024-12", "text": "We released Dynamic Try-On for video virtual try-on.", "links": [["Project", "https://zhengjun-ai.github.io/dynamic-tryon-page/"]]},
+  {"date": "2024-05", "text": "We released VITON-DiT for in-the-wild video virtual try-on.", "links": [["Project", "https://zhengjun-ai.github.io/viton-dit-page/"]]}
+]

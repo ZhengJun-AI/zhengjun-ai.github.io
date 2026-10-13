@@ -1,0 +1,23 @@
+{
+  "name": "Jun Zheng",
+  "role": "Algorithm Engineer",
+  "organization": "Alibaba Group",
+  "department": "AI Native Applications",
+  "focus": "Virtual try-on",
+  "updated": "2026-10-14",
+  "links": [
+    ["Google Scholar", "https://scholar.google.com/citations?user=sXKJBsUAAAAJ&hl=en"],
+    ["GitHub", "https://github.com/ZhengJun-AI"],
+    ["Hugging Face", "https://huggingface.co/zxbsmk"],
+    ["Zhihu", "https://www.zhihu.com/people/zxbsmk"],
+    ["Email", "mailto:zxbsmk@gmail.com"]
+  ],
+  "experience": [
+    {"organization": "Alibaba Group", "logo": "alibaba.png", "role": "Algorithm Engineer", "period": "Jul. 2026 – Present", "detail": "AI Native Applications · Virtual try-on", "previous": "Previously: Algorithm Intern, from Feb. 2025"},
+    {"organization": "ByteDance", "logo": "bytedance.png", "role": "Algorithm Intern", "period": "Mar. 2024 – Dec. 2024", "detail": "", "previous": ""}
+  ],
+  "education": [
+    {"organization": "Sun Yat-sen University", "logo": "SYSU.png", "role": "Master’s degree in Control Science and Engineering", "period": "Graduated Jun. 2026", "detail": "Advisor: Prof. Xiaodan Liang", "previous": ""},
+    {"organization": "Sun Yat-sen University", "logo": "SYSU.png", "role": "Bachelor’s degree in Intelligence Science and Technology", "period": "Sep. 2019 – Jun. 2023", "detail": "", "previous": ""}
+  ]
+}
